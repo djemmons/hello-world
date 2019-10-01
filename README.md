@@ -1,5 +1,4 @@
 # hello-world
-Random repository
 
 Hello friends!
 
